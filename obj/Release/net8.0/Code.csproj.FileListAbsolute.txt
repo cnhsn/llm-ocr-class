@@ -10,3 +10,4 @@ D:\Code\obj\Release\net8.0\Code.dll
 D:\Code\obj\Release\net8.0\refint\Code.dll
 D:\Code\obj\Release\net8.0\Code.pdb
 D:\Code\obj\Release\net8.0\ref\Code.dll
+D:\Code\obj\Release\net8.0\Code.sourcelink.json
