@@ -1,0 +1,12 @@
+D:\Code\bin\Release\net8.0\Code.deps.json
+D:\Code\bin\Release\net8.0\Code.dll
+D:\Code\bin\Release\net8.0\Code.pdb
+D:\Code\obj\Release\net8.0\Code.csproj.AssemblyReference.cache
+D:\Code\obj\Release\net8.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\obj\Release\net8.0\Code.AssemblyInfoInputs.cache
+D:\Code\obj\Release\net8.0\Code.AssemblyInfo.cs
+D:\Code\obj\Release\net8.0\Code.csproj.CoreCompileInputs.cache
+D:\Code\obj\Release\net8.0\Code.dll
+D:\Code\obj\Release\net8.0\refint\Code.dll
+D:\Code\obj\Release\net8.0\Code.pdb
+D:\Code\obj\Release\net8.0\ref\Code.dll
